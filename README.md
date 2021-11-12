@@ -1,6 +1,6 @@
 # 3d_stencil_demo
 
-Notice the bridges !
+Notice the "3D-bridges" !
 
 This enables to paint the ufton crop-circle without leaving bridges marks.
 
